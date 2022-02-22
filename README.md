@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Cesarelerrante
 - 👀 I’m interested in ...-
-El univerco IT, el futbol, el UCM, la mujereses, los amigos , la buena compania y el buen vino. No necesariamente en ese orden
+El univerco IT, el futbol, el UCM, la mujereses, los amigos , la buena compania y el buen vino. No exactamente en ese orden
 - 🌱 I’m currently learning ...
 - Aprendiendo con Henry a ser full Stack y ampliar mi horizente laboral de Soporte IT
 - 💞️ I’m looking to collaborate on ...
